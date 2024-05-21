@@ -10,11 +10,11 @@ The main features of this vehicle include:
 - Track Following
 - Android Controlled
 
-## Concept & Funcyioning
+## Concept & Functioning
 
 Curiosity functions similarly to a normal car! The vehicle is equipped with a primary coil and all necessary electronic components! When the car reaches a parking or charging station, it aligns with the secondary coil! The charging process is facilitated by smart RFID technology installed in the car, which automatically deducts the cost based on the charging time and total battery charge! This is a brief and precise concept of the design!
 
-## More
+## More About This
 
 For more information regarding this project, please visit my website [Curiosity - EV](https://aicuriosity.000webhostapp.com/) 
   \
