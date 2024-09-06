@@ -16,7 +16,7 @@ Curiosity functions similarly to a normal car! The vehicle is equipped with a pr
 
 ## More About This
 
-For more information regarding this project, please visit my website [Curiosity - EV](https://curiosityev.000webhostapp.com/) 
+For more information regarding this project, please visit my website [Curiosity - EV](https://curiosityev.netlify.app/) 
   \
   \
 _Thank you for giving your important time ;)_
